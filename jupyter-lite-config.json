@@ -1,0 +1,5 @@
+{
+  "PipliteAddon": {
+    "piplite_urls": ["matplotlib","hyperspy","rosettasciio"]
+  }
+}
