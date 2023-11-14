@@ -1,5 +1,8 @@
 {
   "PipliteAddon": {
     "piplite_urls": ["matplotlib", "hyperspy==2.0.rc0", "rosettasciio==0.2.0"]
+  },
+  "LiteBuildConfig": {
+    "contents": ["."]
   }
 }
