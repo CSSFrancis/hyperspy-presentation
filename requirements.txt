@@ -43,5 +43,5 @@ ipyleaflet
 
 # Python: plotting libraries (optional)
 matplotlib
-hyperspy
-rosettasciio
+hyperspy ~= 2.0.rc0
+rosettasciio == 0.2.0
